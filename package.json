@@ -1,0 +1,25 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "Zennに投稿する記事管理リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "article": "zenn new:article",
+    "book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoshimtoshi/zenn-content.git"
+  },
+  "keywords": ["otot.dev","masatoshi","otoshi","落司","聖稔"],
+  "author": "masatoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otoshimtoshi/zenn-content/issues"
+  },
+  "homepage": "https://github.com/otoshimtoshi/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.110"
+  }
+}
