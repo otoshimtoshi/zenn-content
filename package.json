@@ -19,5 +19,8 @@
   "homepage": "https://github.com/otoshimtoshi/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.1.157"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.1"
   }
 }
