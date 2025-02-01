@@ -5,11 +5,13 @@
 ## 記事の作成
 
 ```
-$ npx zenn new:article
+% npx zenn new:article
+% pnpm run new:article
 ```
 
 ## プレビューする
 
 ```
-$ npx zenn preview
+% npx zenn preview
+% pnpm run preview
 ```
