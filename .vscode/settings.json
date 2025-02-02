@@ -5,5 +5,6 @@
     "source.fixAll.eslint": "explicit",
     "source.fixAll.stylelint": "explicit"
   },
-  "textlint.languages": ["mdx", "markdown", "plaintext", "html"]
+  "textlint.languages": ["mdx", "markdown", "plaintext", "html"],
+  "textlint.autoFixOnSave": true
 }
