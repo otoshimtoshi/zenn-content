@@ -17,6 +17,9 @@ updates:
       include: 'scope'
     labels:
       - 'dependencies'
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-minor']
   - package-ecosystem: 'npm'
     directory: '/'
     schedule:
@@ -29,3 +32,6 @@ updates:
       include: 'scope'
     labels:
       - 'dependencies'
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-minor']
