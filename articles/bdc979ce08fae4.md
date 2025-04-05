@@ -77,3 +77,16 @@ Github の personal access token にアクセスして Issues へのアクセス
 ![](/images/bdc979ce08fae4/github-server_7.png)
 
 ブランチの作成はしてくれましたが、まだ commit して差分がないので pull request の作成まではしてくれないみたいですね。
+
+### pull requestの作成
+
+![](/images/bdc979ce08fae4/github-server_8.png)
+
+今度は差分があるので pull request を作成してくれました。
+
+![](/images/bdc979ce08fae4/github-server_9.png)
+
+## おわりに
+
+Copilot Chat 経由で特定の mcp サーバーを使用することで Chat だけで多くの作業を完結できることが分かりました。
+issue template や pull request template が整備されているような業務ではさらに品質が高まるはずなので、今後やってみたいと思います。
