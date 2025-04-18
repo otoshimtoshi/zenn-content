@@ -20,6 +20,16 @@ https://code.visualstudio.com/updates/v1_99
 
 今回は vscode に Agent mode が追加されたので、Github の MCP サーバーを追加したいと思います。
 
+<!-- textlint-disable -->
+
+:::message alert
+2025 年 4 月前半に Github から公式の MCP サーバーの配布が始まっています。
+[github-mcp-server](https://github.com/github/github-mcp-server)
+セキュリティの観点などから公式の MCP サーバーがある場合はそちらを利用することをお勧めします。
+:::
+
+<!-- textlint-enable -->
+
 `⌘+shift+P`で MCP:add server と出るのでそちらを選択します。
 今回は npm package を選択して、`@modelcontextprotocol/server-github`と入力します。
 
