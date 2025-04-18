@@ -23,7 +23,7 @@ https://code.visualstudio.com/updates/v1_99
 <!-- textlint-disable -->
 
 :::message alert
-2025 年 4 月前半に Github から公式の MCP サーバーの配布が始まっています。
+2025 年 4 月前半に Github から公式の MCP サーバーがリリースされました。
 [github-mcp-server](https://github.com/github/github-mcp-server)
 セキュリティの観点などから公式の MCP サーバーがある場合はそちらを利用することをお勧めします。
 :::
