@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/otoshimtoshi/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.1.159"
   },
   "devDependencies": {
     "prettier": "^3.5.3",
