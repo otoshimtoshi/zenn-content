@@ -3,7 +3,7 @@ title: 'packeage.jsonでのworkspaces活用法'
 emoji: '🛠️'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['nodejs', 'npm', 'yarn', 'pnpm', 'monorepo']
-published: false
+published: true
 ---
 
 ## はじめに
