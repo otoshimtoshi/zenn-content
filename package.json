@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/otoshimtoshi/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.159"
+    "zenn-cli": "^0.1.160"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
