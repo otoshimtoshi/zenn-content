@@ -15,5 +15,3 @@
 % npx zenn preview
 % pnpm run preview
 ```
-
-Obsidian で使用している。
