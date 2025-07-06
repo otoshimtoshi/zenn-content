@@ -15,3 +15,10 @@
 % npx zenn preview
 % pnpm run preview
 ```
+
+## text-lint
+
+ファイル毎 text-lint を無効化する。
+```
+<!-- textlint-disable -->
+```
