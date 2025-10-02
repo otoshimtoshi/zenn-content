@@ -6,5 +6,22 @@
     "source.fixAll.stylelint": "explicit"
   },
   "textlint.languages": ["mdx", "markdown", "plaintext", "html"],
-  "textlint.autoFixOnSave": true
+  "textlint.autoFixOnSave": true,
+  "mcp": {
+    "servers": {
+      "fetch": {
+        "command": "uvx",
+        "args": ["mcp-server-fetch"]
+      },
+      "serena": {
+        "command": "uvx",
+        "args": [
+          "--from",
+          "git+https://github.com/oraios/serena",
+          "serena",
+          "start-mcp-server"
+        ]
+      }
+    }
+  }
 }
