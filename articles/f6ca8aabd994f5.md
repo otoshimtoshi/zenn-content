@@ -3,7 +3,7 @@ title: "地味に記事のアイコンに悩むので使うものをまとめて
 emoji: "🔱"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [icon, emoji, design]
-published: true
+published: false
 ---
 
 ## はじめに
