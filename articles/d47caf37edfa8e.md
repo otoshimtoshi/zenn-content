@@ -6,15 +6,9 @@ topics: ['nodejs', 'npm', 'yarn', 'pnpm', 'monorepo']
 published: true
 ---
 
-## はじめに
-
-[otot_dev](https://zenn.dev/otot_dev)です。
-
 `package.json`の`workspaces`機能を活用することで、モノレポ（Monorepo）の管理を効率化できることを知りました。
 2022 年 10 月頃にはできるようになっていたようですね。
 本記事では、`workspaces`について書いていきたいと思います。
-
-
 
 ## workspacesとは
 

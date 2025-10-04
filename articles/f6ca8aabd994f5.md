@@ -6,8 +6,6 @@ topics: [icon, emoji, design]
 published: false
 ---
 
-## はじめに
-[otot_dev](https://zenn.dev/otot_dev)です。
 Zenn で記事を書くときに、アイコンをどうしようか考えることが多いので、使いそうなものをまとめてみました。
 （きっと私だけではないはず...）
 

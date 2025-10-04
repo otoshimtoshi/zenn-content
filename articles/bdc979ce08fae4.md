@@ -6,9 +6,6 @@ topics: ['vscode', 'mcp', 'githubcopilot']
 published: true
 ---
 
-## はじめに
-
-こんにちは、[otot_dev](https://zenn.dev/otot_dev)です。
 2025 年 3 月の vscode リリースで Agent mode がリリースされましたね。
 
 リリースノート
