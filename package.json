@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "new:article": "zenn new:article",
+    "new": "zenn new:article",
     "preview": "zenn preview",
     "lint:docs": "textlint --cache **/*.md",
     "lint:docs:fix": "textlint --cache --fix **/*.md"
