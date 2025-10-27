@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       zenn-cli:
-        specifier: ^0.2.5
-        version: 0.2.5
+        specifier: ^0.2.8
+        version: 0.2.8
     devDependencies:
       '@biomejs/biome':
         specifier: 2.2.5
@@ -1663,8 +1663,8 @@ packages:
     resolution: {integrity: sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==}
     engines: {node: '>=0.4'}
 
-  zenn-cli@0.2.5:
-    resolution: {integrity: sha512-DkVcFbpmuXIKMs2pqBigj/uIYwg0M7H8lP5I5GqLil2pDVO3sTvR9PlxFPIs+x8WIyj4LTfNN/beGzLr4jiKJw==}
+  zenn-cli@0.2.8:
+    resolution: {integrity: sha512-HIUf4m2aSBZM0+eVERwbjkcF8HCSc0p7pfa9CkTkXKhJohCh2Oho+z0s3RczuMLMYOGnD6TWyqUKveTFuJX9dw==}
     engines: {node: '>=22.0.0'}
     hasBin: true
 
@@ -3897,7 +3897,7 @@ snapshots:
 
   xtend@4.0.2: {}
 
-  zenn-cli@0.2.5: {}
+  zenn-cli@0.2.8: {}
 
   zlibjs@0.3.1: {}
 
