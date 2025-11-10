@@ -9,12 +9,12 @@ importers:
   .:
     dependencies:
       zenn-cli:
-        specifier: ^0.2.5
-        version: 0.2.5
+        specifier: ^0.2.10
+        version: 0.2.10
     devDependencies:
       '@biomejs/biome':
-        specifier: 2.2.5
-        version: 2.2.5
+        specifier: 2.2.7
+        version: 2.2.7
       textlint:
         specifier: ^15.2.2
         version: 15.2.2
@@ -67,55 +67,55 @@ packages:
     resolution: {integrity: sha512-t8kDRGrKXyp6+tjUh7hw2RLyclsW4TRoRvRHtSyAX9Bb5ldlFh+90YAYY6awRXrlB4G5G2izNeGySpATlFzmOg==}
     engines: {node: '>=6.9.0'}
 
-  '@biomejs/biome@2.2.5':
-    resolution: {integrity: sha512-zcIi+163Rc3HtyHbEO7CjeHq8DjQRs40HsGbW6vx2WI0tg8mYQOPouhvHSyEnCBAorfYNnKdR64/IxO7xQ5faw==}
+  '@biomejs/biome@2.2.7':
+    resolution: {integrity: sha512-1a8j0UP1vXVUf3UzMZEJ/zS2VgAG6wU6Cuh/I764sUGI+MCnJs/9WaojHYBDCxCMLTgU60/WqnYof85emXmSBA==}
     engines: {node: '>=14.21.3'}
     hasBin: true
 
-  '@biomejs/cli-darwin-arm64@2.2.5':
-    resolution: {integrity: sha512-MYT+nZ38wEIWVcL5xLyOhYQQ7nlWD0b/4mgATW2c8dvq7R4OQjt/XGXFkXrmtWmQofaIM14L7V8qIz/M+bx5QQ==}
+  '@biomejs/cli-darwin-arm64@2.2.7':
+    resolution: {integrity: sha512-xBUUsebnO2/Qj1v7eZmKUy2ZcFkZ4/jLUkxN02Qup1RPoRaiW9AKXHrqS3L7iX6PzofHY2xuZ+Pb9kAcpoe0qA==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [darwin]
 
-  '@biomejs/cli-darwin-x64@2.2.5':
-    resolution: {integrity: sha512-FLIEl73fv0R7dI10EnEiZLw+IMz3mWLnF95ASDI0kbx6DDLJjWxE5JxxBfmG+udz1hIDd3fr5wsuP7nwuTRdAg==}
+  '@biomejs/cli-darwin-x64@2.2.7':
+    resolution: {integrity: sha512-vsY4NhmxqgfLJufr9XUnC+yGUPJiXAc1mz6FcjaAmuIuLwfghN4uQO7hnW2AneGyoi2mNe9Jbvf6Qtq4AjzrFg==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [darwin]
 
-  '@biomejs/cli-linux-arm64-musl@2.2.5':
-    resolution: {integrity: sha512-5Ov2wgAFwqDvQiESnu7b9ufD1faRa+40uwrohgBopeY84El2TnBDoMNXx6iuQdreoFGjwW8vH6k68G21EpNERw==}
+  '@biomejs/cli-linux-arm64-musl@2.2.7':
+    resolution: {integrity: sha512-FrTwvKO/7t5HbVTvhlMOTOVQLAcR7r4O4iFQhEpZXUtBfosHqrX/JJlX7daPawoe14MDcCu9CDg0zLVpTuDvuQ==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
 
-  '@biomejs/cli-linux-arm64@2.2.5':
-    resolution: {integrity: sha512-5DjiiDfHqGgR2MS9D+AZ8kOfrzTGqLKywn8hoXpXXlJXIECGQ32t+gt/uiS2XyGBM2XQhR6ztUvbjZWeccFMoQ==}
+  '@biomejs/cli-linux-arm64@2.2.7':
+    resolution: {integrity: sha512-nUdco104rjV9dULi1VssQ5R/kX2jE/Z2sDjyqS+siV9sTQda0DwmEUixFNRCWvZJRRiZUWhgiDFJ4n7RowO8Mg==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
 
-  '@biomejs/cli-linux-x64-musl@2.2.5':
-    resolution: {integrity: sha512-AVqLCDb/6K7aPNIcxHaTQj01sl1m989CJIQFQEaiQkGr2EQwyOpaATJ473h+nXDUuAcREhccfRpe/tu+0wu0eQ==}
+  '@biomejs/cli-linux-x64-musl@2.2.7':
+    resolution: {integrity: sha512-MnsysF5s/iLC5wnYvuMseOy+m8Pd4bWG1uwlVyy2AUbfjAVUgtbYbboc5wMXljFrDY7e6rLjLTR4S2xqDpGlQg==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
 
-  '@biomejs/cli-linux-x64@2.2.5':
-    resolution: {integrity: sha512-fq9meKm1AEXeAWan3uCg6XSP5ObA6F/Ovm89TwaMiy1DNIwdgxPkNwxlXJX8iM6oRbFysYeGnT0OG8diCWb9ew==}
+  '@biomejs/cli-linux-x64@2.2.7':
+    resolution: {integrity: sha512-tPTcGAIEOOZrj2tQ7fdraWlaxNKApBw6l4In8wQQV1IyxnAexqi0hykHzKEX8hKKctf5gxGBfNCzyIvqpj4CFQ==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
 
-  '@biomejs/cli-win32-arm64@2.2.5':
-    resolution: {integrity: sha512-xaOIad4wBambwJa6mdp1FigYSIF9i7PCqRbvBqtIi9y29QtPVQ13sDGtUnsRoe6SjL10auMzQ6YAe+B3RpZXVg==}
+  '@biomejs/cli-win32-arm64@2.2.7':
+    resolution: {integrity: sha512-h5D1jhwA2b7cFXerYiJfXHSzzAMFFoEDL5Mc2BgiaEw0iaSgSso/3Nc6FbOR55aTQISql+IpB4PS7JoV26Gdbw==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [win32]
 
-  '@biomejs/cli-win32-x64@2.2.5':
-    resolution: {integrity: sha512-F/jhuXCssPFAuciMhHKk00xnCAxJRS/pUzVfXYmOMUp//XW7mO6QeCjsjvnm8L4AO/dG2VOB0O+fJPiJ2uXtIw==}
+  '@biomejs/cli-win32-x64@2.2.7':
+    resolution: {integrity: sha512-URqAJi0kONyBKG4V9NVafHLDtm6IHmF4qPYi/b6x7MD6jxpWeJiTCO6R5+xDlWckX2T/OGv6Yq3nkz6s0M8Ykw==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [win32]
@@ -330,6 +330,10 @@ packages:
   brace-expansion@2.0.2:
     resolution: {integrity: sha512-Jt0vHyM+jmUBqojB7E1NIYadt0vI0Qxjxd2TErW94wDz+E2LAm5vKMXXwg6ZZBTHPuUlDgQHKXvjGBdfcF1ZDQ==}
 
+  bundle-name@4.1.0:
+    resolution: {integrity: sha512-tjwM5exMg6BGRI+kNmTntNsvdZS1X8BFYS6tnJ2hdH0kVxM6/eVZ2xy+FqStSWvYmtfFMDLIxurorHwDKfDz5Q==}
+    engines: {node: '>=18'}
+
   bytes@3.1.2:
     resolution: {integrity: sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==}
     engines: {node: '>= 0.8'}
@@ -443,9 +447,21 @@ packages:
   deep-is@0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
 
+  default-browser-id@5.0.0:
+    resolution: {integrity: sha512-A6p/pu/6fyBcA1TRz/GqWYPViplrftcW2gZC9q79ngNCKAeR/X3gcEdXQHl4KNXV+3wgIJ1CPkJQ3IHM6lcsyA==}
+    engines: {node: '>=18'}
+
+  default-browser@5.2.1:
+    resolution: {integrity: sha512-WY/3TUME0x3KPYdRRxEJJvXRHV4PyPoUsxtZa78lwItwRQRHhd2U9xOscaT/YTf8uCXIAjeJOFBVEh/7FtD8Xg==}
+    engines: {node: '>=18'}
+
   define-data-property@1.1.4:
     resolution: {integrity: sha512-rBMvIzlpA8v6E+SJZoo++HAYqsLrkg7MSfIinMPFhmkorw7X+dOXVJQs+QT69zGkzMyfDnIMN2Wid1+NbL3T+A==}
     engines: {node: '>= 0.4'}
+
+  define-lazy-prop@3.0.0:
+    resolution: {integrity: sha512-N+MeXYoqr3pOgn8xfyRPREN7gHakLYjhsHhWGT3fWAiL4IkAt0iDw14QiiEm2bE30c5XX5q0FtAA3CK5f9/BUg==}
+    engines: {node: '>=12'}
 
   define-properties@1.2.1:
     resolution: {integrity: sha512-8QmQKqEASLd5nx0U1B1okLElbUuuttJ/AnYmRXbbbGDWh6uS208EjD4Xqq/I9wK7u0v6O08XhTWnt5XtEbR6Dg==}
@@ -781,6 +797,11 @@ packages:
     resolution: {integrity: sha512-JCNNGbwWZEVaSPtS45mdtrneRWJFp07LLmykxeFV5F6oBvNF8vHSfJuJgoT472pSfk+Mf8VnlrspaFBHWM8JAw==}
     engines: {node: '>= 0.4'}
 
+  is-docker@3.0.0:
+    resolution: {integrity: sha512-eljcgEDlEns/7AXFosB5K/2nCM4P7FQPkGc/DWLy5rmFEWvZayGrik1d9/QIY5nJ4f9YsVvBkA6kJpHn9rISdQ==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    hasBin: true
+
   is-extendable@1.0.1:
     resolution: {integrity: sha512-arnXMxT1hhoKo9k1LZdmlNyJdDDfy2v0fXjFlmok4+i8ul/6WlbVge9bhM74OpNPQPMGUToDtz+KXa1PneJxOA==}
     engines: {node: '>=0.10.0'}
@@ -799,6 +820,11 @@ packages:
 
   is-hexadecimal@1.0.4:
     resolution: {integrity: sha512-gyPJuv83bHMpocVYoqof5VDiZveEoGoFL8m3BXNb2VW8Xs+rz9kqO8LOQ5DH6EsuvilT1ApazU0pyl+ytbPtlw==}
+
+  is-inside-container@1.0.0:
+    resolution: {integrity: sha512-KIYLCCJghfHZxqjYBE7rEy0OBuTd5xCHS7tHVgvCLkx7StIoaxwNW3hCALgEUjFfeRk+MG/Qxmp/vtETEF3tRA==}
+    engines: {node: '>=14.16'}
+    hasBin: true
 
   is-map@2.0.3:
     resolution: {integrity: sha512-1Qed0/Hr2m+YqxnM09CjA2d/i6YZNfF6R2oRAOj36eUdS6qIV/huPJNSEpKbupewFs+ZsJlxsjjPbc0/afW6Lw==}
@@ -858,6 +884,10 @@ packages:
   is-weakset@2.0.4:
     resolution: {integrity: sha512-mfcwb6IzQyOKTs84CQMrOwW4gQcaTOAWJ0zzJCl2WSPDrWk/OzDaImWFH3djXhb24g4eudZfLRozAvPGw4d9hQ==}
     engines: {node: '>= 0.4'}
+
+  is-wsl@3.1.0:
+    resolution: {integrity: sha512-UcVfVfaK4Sc4m7X3dUSoHoozQGBEFeDC+zVo06t98xe8CzHSZZBekNXH+tu0NalHolcJ/QAGqS46Hef7QXBIMw==}
+    engines: {node: '>=16'}
 
   isarray@2.0.5:
     resolution: {integrity: sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw==}
@@ -1085,6 +1115,10 @@ packages:
   once@1.4.0:
     resolution: {integrity: sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w==}
 
+  open@10.2.0:
+    resolution: {integrity: sha512-YgBpdJHPyQ2UE5x+hlSXcnejzAvD0b22U2OuAP+8OnlJT+PjWPxtgmGqKKc+RgTM63U9gN0YzrYc71R2WT/hTA==}
+    engines: {node: '>=18'}
+
   optionator@0.9.4:
     resolution: {integrity: sha512-6IpQ7mKUxRcZNLIObR0hz7lxsapSSIYNZJwXPGeF0mTVqGKFIXj1DQcMoT22S3ROcLyY/rz0PWaWZ9ayWmad9g==}
     engines: {node: '>= 0.8.0'}
@@ -1226,6 +1260,10 @@ packages:
   router@2.2.0:
     resolution: {integrity: sha512-nLTrUKm2UyiL7rlhapu/Zl45FwNgkZGaCpZbIHajDYgwlJCOzLSk+cIPAnsEqV955GjILJnKbdQC1nVPz+gAYQ==}
     engines: {node: '>= 18'}
+
+  run-applescript@7.1.0:
+    resolution: {integrity: sha512-DPe5pVFaAsinSaV6QjQ6gdiedWDcRCbUuiQfQa2wmWV7+xC9bGulGI8+TdRmoFkAPaBXk8CrAbnlY2ISniJ47Q==}
+    engines: {node: '>=18'}
 
   safe-array-concat@1.1.3:
     resolution: {integrity: sha512-AURm5f0jYEOydBj7VQlVvDrjeFgthDdEF5H1dP+6mNpoXOMo1quQqJ4wvJDyRZ9+pO3kGWoOdmV08cSv2aJV6Q==}
@@ -1659,12 +1697,16 @@ packages:
   wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
 
+  wsl-utils@0.1.0:
+    resolution: {integrity: sha512-h3Fbisa2nKGPxCpm89Hk33lBLsnaGBvctQopaBSOW/uIs6FTe1ATyAnKFJrzVs9vpGdsTe73WF3V4lIsk4Gacw==}
+    engines: {node: '>=18'}
+
   xtend@4.0.2:
     resolution: {integrity: sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==}
     engines: {node: '>=0.4'}
 
-  zenn-cli@0.2.5:
-    resolution: {integrity: sha512-DkVcFbpmuXIKMs2pqBigj/uIYwg0M7H8lP5I5GqLil2pDVO3sTvR9PlxFPIs+x8WIyj4LTfNN/beGzLr4jiKJw==}
+  zenn-cli@0.2.10:
+    resolution: {integrity: sha512-+1tAbDM9wsbRfrQtDGEN/i0bB1d26RqjtPmgBm672zflcTw/C8A/9qUA4fH4/TMmCGdOyNvohUE2B5ERd9EOZg==}
     engines: {node: '>=22.0.0'}
     hasBin: true
 
@@ -1711,39 +1753,39 @@ snapshots:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
 
-  '@biomejs/biome@2.2.5':
+  '@biomejs/biome@2.2.7':
     optionalDependencies:
-      '@biomejs/cli-darwin-arm64': 2.2.5
-      '@biomejs/cli-darwin-x64': 2.2.5
-      '@biomejs/cli-linux-arm64': 2.2.5
-      '@biomejs/cli-linux-arm64-musl': 2.2.5
-      '@biomejs/cli-linux-x64': 2.2.5
-      '@biomejs/cli-linux-x64-musl': 2.2.5
-      '@biomejs/cli-win32-arm64': 2.2.5
-      '@biomejs/cli-win32-x64': 2.2.5
+      '@biomejs/cli-darwin-arm64': 2.2.7
+      '@biomejs/cli-darwin-x64': 2.2.7
+      '@biomejs/cli-linux-arm64': 2.2.7
+      '@biomejs/cli-linux-arm64-musl': 2.2.7
+      '@biomejs/cli-linux-x64': 2.2.7
+      '@biomejs/cli-linux-x64-musl': 2.2.7
+      '@biomejs/cli-win32-arm64': 2.2.7
+      '@biomejs/cli-win32-x64': 2.2.7
 
-  '@biomejs/cli-darwin-arm64@2.2.5':
+  '@biomejs/cli-darwin-arm64@2.2.7':
     optional: true
 
-  '@biomejs/cli-darwin-x64@2.2.5':
+  '@biomejs/cli-darwin-x64@2.2.7':
     optional: true
 
-  '@biomejs/cli-linux-arm64-musl@2.2.5':
+  '@biomejs/cli-linux-arm64-musl@2.2.7':
     optional: true
 
-  '@biomejs/cli-linux-arm64@2.2.5':
+  '@biomejs/cli-linux-arm64@2.2.7':
     optional: true
 
-  '@biomejs/cli-linux-x64-musl@2.2.5':
+  '@biomejs/cli-linux-x64-musl@2.2.7':
     optional: true
 
-  '@biomejs/cli-linux-x64@2.2.5':
+  '@biomejs/cli-linux-x64@2.2.7':
     optional: true
 
-  '@biomejs/cli-win32-arm64@2.2.5':
+  '@biomejs/cli-win32-arm64@2.2.7':
     optional: true
 
-  '@biomejs/cli-win32-x64@2.2.5':
+  '@biomejs/cli-win32-x64@2.2.7':
     optional: true
 
   '@isaacs/cliui@8.0.2':
@@ -2100,6 +2142,10 @@ snapshots:
     dependencies:
       balanced-match: 1.0.2
 
+  bundle-name@4.1.0:
+    dependencies:
+      run-applescript: 7.1.0
+
   bytes@3.1.2: {}
 
   cacheable@1.10.4:
@@ -2209,11 +2255,20 @@ snapshots:
 
   deep-is@0.1.4: {}
 
+  default-browser-id@5.0.0: {}
+
+  default-browser@5.2.1:
+    dependencies:
+      bundle-name: 4.1.0
+      default-browser-id: 5.0.0
+
   define-data-property@1.1.4:
     dependencies:
       es-define-property: 1.0.1
       es-errors: 1.3.0
       gopd: 1.2.0
+
+  define-lazy-prop@3.0.0: {}
 
   define-properties@1.2.1:
     dependencies:
@@ -2641,6 +2696,8 @@ snapshots:
       is-accessor-descriptor: 1.0.1
       is-data-descriptor: 1.0.1
 
+  is-docker@3.0.0: {}
+
   is-extendable@1.0.1:
     dependencies:
       is-plain-object: 2.0.4
@@ -2659,6 +2716,10 @@ snapshots:
       safe-regex-test: 1.1.0
 
   is-hexadecimal@1.0.4: {}
+
+  is-inside-container@1.0.0:
+    dependencies:
+      is-docker: 3.0.0
 
   is-map@2.0.3: {}
 
@@ -2715,6 +2776,10 @@ snapshots:
     dependencies:
       call-bound: 1.0.4
       get-intrinsic: 1.3.0
+
+  is-wsl@3.1.0:
+    dependencies:
+      is-inside-container: 1.0.0
 
   isarray@2.0.5: {}
 
@@ -2990,6 +3055,13 @@ snapshots:
     dependencies:
       wrappy: 1.0.2
 
+  open@10.2.0:
+    dependencies:
+      default-browser: 5.2.1
+      define-lazy-prop: 3.0.0
+      is-inside-container: 1.0.0
+      wsl-utils: 0.1.0
+
   optionator@0.9.4:
     dependencies:
       deep-is: 0.1.4
@@ -3173,6 +3245,8 @@ snapshots:
       path-to-regexp: 8.2.0
     transitivePeerDependencies:
       - supports-color
+
+  run-applescript@7.1.0: {}
 
   safe-array-concat@1.1.3:
     dependencies:
@@ -3895,9 +3969,15 @@ snapshots:
 
   wrappy@1.0.2: {}
 
+  wsl-utils@0.1.0:
+    dependencies:
+      is-wsl: 3.1.0
+
   xtend@4.0.2: {}
 
-  zenn-cli@0.2.5: {}
+  zenn-cli@0.2.10:
+    dependencies:
+      open: 10.2.0
 
   zlibjs@0.3.1: {}
 
